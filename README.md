@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Tufail Bakshi
 
-<!--
-**tufailbakshi/tufailbakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Science Student
+📍 Srinagar, India
 
-Here are some ideas to get you started:
+I am passionate about Data Science and working with data to discover insights and build predictive models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+
+* Python
+* Pandas
+* NumPy
+* Data Cleaning
+* Data Visualization
+* Statistics
+* Jupyter Notebook
+* Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+* Data Analysis
+* Data Visualization
+* Machine Learning Basics
+* SQL for Data Science
+
+---
+
+## 📊 Tools
+
+Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
+
+---
+
+## 📂 Projects
+
+Coming Soon 🚀
+
+---
+
+⭐ I am continuously learning and building Data Science projects.
