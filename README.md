@@ -17,6 +17,8 @@ I am passionate about Data Science and working with data to discover insights an
 * Statistics
 * Jupyter Notebook
 * Git & GitHub
+* SQL and Power Bi
+
 
 ---
 
